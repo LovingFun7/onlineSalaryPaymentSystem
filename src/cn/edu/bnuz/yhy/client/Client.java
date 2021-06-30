@@ -25,6 +25,7 @@ public class Client {
         Scanner in = new Scanner(System.in);
         System.out.println("欢迎使用YHY的薪酬支付系统");
         System.out.println("欢迎使用YHY的薪酬支付系统");
+        System.out.println("欢迎使用YHY的薪酬支付系统");
         System.out.println("-----------------------------------------");
         int a = 1;
         while (a != 0) {
